@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanudevcodes&label=Profile%20views&color=0e75b6&style=flat" alt="shanudevcodes" /> </p>
 
-- 🔭 I’m currently working on [Workout Planner App](https://github.com/ShanuDevCodes/My_Workout_Plan)
-
-- 🌱 I’m currently learning **Data Management, Clean Architecture, Dependency Injection , ETC**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ShanuDevCodes](https://github.com/ShanuDevCodes)
-
-- 💬 Ask me about **Native Android dev, Kotlin, Jetpack**
 
 - 📫 How to reach me **shanu.dev.codes@gmail.com**
 
