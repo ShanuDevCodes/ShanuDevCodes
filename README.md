@@ -113,9 +113,9 @@ val me = Shanu()
 ### 📱 KIITO — Academic Companion
 > *6,000+ Downloads • Android + iOS*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/ShanuDevCodes)
-[![Play Store](https://img.shields.io/badge/Play_Store-Live-3DDC84?style=flat-square&logo=google-play)](https://play.google.com/store)
-[![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=app-store)](https://apps.apple.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/milkandvodka/KITO)
+[![Play Store](https://img.shields.io/badge/Play_Store-Live-3DDC84?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.kito)
+[![App Store](https://img.shields.io/badge/App_Store-Live-0D96F6?style=flat-square&logo=app-store)](https://apps.apple.com/us/app/kiito/id6759354457)
 
 **`KMP`** **`Compose Multiplatform`** **`Room`** **`Supabase`** **`WorkManager`**
 
@@ -129,8 +129,8 @@ val me = Shanu()
 ### 📰 NewsBits — AI News Aggregator
 > *1,900+ Articles/Day Pipeline*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/ShanuDevCodes)
-[![APK](https://img.shields.io/badge/Download-APK-a78bfa?style=flat-square&logo=android)](https://github.com/ShanuDevCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/ShanuDevCodes/NewsBits)
+[![APK](https://img.shields.io/badge/Download-APK-a78bfa?style=flat-square&logo=android)](https://github.com/ShanuDevCodes/NewsBits/releases/tag/V1)
 
 **`Kotlin`** **`Firebase`** **`Algolia`** **`Gemini AI`** **`MVVM`** **`Hilt`**
 
@@ -146,8 +146,8 @@ val me = Shanu()
 ### 🔐 Finance REST API Backend
 > *Multi-Role Secure Data Processing*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/ShanuDevCodes)
-[![Live API](https://img.shields.io/badge/Live-API-6DB33F?style=flat-square&logo=swagger)](https://github.com/ShanuDevCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/ShanuDevCodes/finance-data-processing-backend)
+[![Live API](https://img.shields.io/badge/Live-API-6DB33F?style=flat-square&logo=swagger)](https://finance-data-processing-backend-ar27.onrender.com/swagger-ui/index.html#/)
 
 **`Java`** **`Spring Boot`** **`PostgreSQL`** **`JWT`** **`Docker`** **`JUnit`**
 
@@ -161,8 +161,7 @@ val me = Shanu()
 ### 🔑 Certificate Auth Backend
 > *Hierarchical JWT · Multi-Tier Auth System*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/ShanuDevCodes)
-[![Live API](https://img.shields.io/badge/Live-API-6DB33F?style=flat-square&logo=swagger)](https://github.com/ShanuDevCodes)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-7c3aed?style=flat-square&logo=github)](https://github.com/TeamElabsWork/Certificate_Auth_Backend)
 
 **`Spring Boot`** **`JWT`** **`Docker`** **`AWS EC2`** **`RBAC`**
 
