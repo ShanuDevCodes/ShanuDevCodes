@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Shanu%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20systems%20that%20scale%20•%20Android%20%7C%20KMP%20%7C%20Backend&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Shanu%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Native%20Android%20%7C%20Kotlin%20Multiplatform%20%7C%20Spring%20Boot%20%7C%20MERN%20%2F%20PERN&descSize=15&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Android+%26+KMP+Developer;Spring+Boot+Backend+Engineer;6%2C000%2B+Users+Served+in+Production;Top+5+%40+IIT+KGP+Kshitij+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Software+Developer;Native+Android+Developer;Kotlin+Multiplatform+%28Android+%2F+iOS%29;Spring+Boot+Backend+Engineer;MERN+%2F+PERN+Stack+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 
 ```kotlin
 data class Shanu(
-    val role: String = "Software Developer",
+    val role: String = "Android & Backend Developer",
     val university: String = "Kalinga Institute of Industrial Technology",
     val degree: String = "B.Tech CSE • Graduating June 2027",
     val building: String = "Systems that scale, apps that ship",
@@ -31,7 +31,6 @@ data class Shanu(
 )
 
 val me = Shanu()
-// Currently seeking: SDE Internships @ product-based companies
 ```
 
 > Software engineer who built systems serving **6,000+ users**, with experience in distributed computing environments, multi-tiered systems, and scalable, fault-tolerant architectures.
@@ -43,9 +42,10 @@ val me = Shanu()
 <div align="center">
 
 **Languages**
-
+ 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -214,7 +214,7 @@ val me = Shanu()
 <div align="center">
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShanuDevCodes&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShanuDevCodes&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&interval=month" width="100%" />
 
 ---
 
