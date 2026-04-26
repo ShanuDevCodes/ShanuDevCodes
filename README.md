@@ -24,6 +24,7 @@
 ```kotlin
 data class Shanu(
     val role: String = "Software Developer",
+    val university: String = "Kalinga Institute of Industrial Technology",
     val degree: String = "B.Tech CSE • Graduating June 2027",
     val building: String = "Systems that scale, apps that ship",
     val funFact: String = "85% latency reduction on a live production pipeline 🔥"
