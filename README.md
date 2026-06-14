@@ -197,8 +197,7 @@ val me = Shanu()
 | 🎯 | **Top 5 / 200 teams** — IIT Kharagpur B-Plan Competition, Kshitij 2026 |
 | ⚡ | **Top 5 / 30+ teams** — Ignithon Hackathon, E-Labs KIIT |
 | ☁️ | **AWS Academy Graduate** — Cloud Foundations (March 2026) |
-| 🧩 | **200+ DSA Problems** — Graphs, DP, Trees (LeetCode + GFG) |
-| 🚀 | **85% latency reduction** — 20s → 3s on a live production pipeline |
+| 🧩 | **400+ DSA Problems** — Graphs, DP, Trees (LeetCode + GFG) |
 
 ---
 
