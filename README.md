@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ShanuDevCodes-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://linkedin.com/in/ShanuDevCodes)
 [![Gmail](https://img.shields.io/badge/Gmail-shanu.dev.codes@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:shanu.dev.codes@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29)](https://shanu-portfolio.up.railway.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29)](https://portfolio.shanudev.codes/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Solved-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29)](https://leetcode.com/)
 
 </div>
